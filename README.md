@@ -1,4 +1,8 @@
 # Parkinson-Disease-Detection-and-Analysis
+
+Note:-
+Training data File - parkinson.csv
+
 Additional requirements:-
 
 Python libraries we are using in project that mumst be installed are :-
