@@ -1,4 +1,15 @@
 # Parkinson-Disease-Detection-and-Analysis
+Additional requirements:-
+
+Python libraries we are using in project that mumst be installed are :-
+
+1.sklearn
+2.pandas
+3.scipy
+4.numpy
+5.matplotlib
+6.PyQt5
+
 Steps to run the project :-
 
 1.First we have open the Command prompt. 
